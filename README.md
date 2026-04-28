@@ -13,6 +13,16 @@ This repository hosts the public binary distribution of **PresetTake**, a
 simple audio recording tool for native Windows. Download the installer from
 the [**Releases**](../../releases) page.
 
+## 公式サイト / Official site
+
+🌐 **<https://ogulinks-subch.com/preset-take/>**
+
+製品紹介・スクリーンショット・特徴・FAQ などはランディングページをご覧ください。
+日本語 / English のバイリンガル対応。
+
+For product overview, screenshots, features, and FAQ, please visit the
+landing page (available in Japanese and English).
+
 ## 最新版のダウンロード / Latest download
 
 [➡ 最新リリースを開く / Open the latest release](../../releases/latest)
